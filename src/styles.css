@@ -1,0 +1,30 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.container {
+  font-family: sans-serif;
+  text-align: center;
+  border: 1px solid grey;
+  padding: 20px;
+  border-radius: 20px;
+  background-color: white;
+}
+
+.App {
+  background-color: #268aa9;
+  width: 60%;
+  margin: 20px auto;
+  padding: 30px;
+}
+
+.btns {
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.btns button {
+  cursor: pointer;
+  padding: 10px;
+}
